@@ -1,14 +1,6 @@
-  [![YouTube Intro](https://user-images.githubusercontent.com/64986230/180298562-b27ce64d-e614-4279-8afe-6aff84606686.gif)](https://www.youtube.com/channel/UC2YaiUgNXANsyIQ0cw1z2Dw/featured/)
-
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/charlesheyilang/)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/himrnoodles/)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=instatus&logoColor=white&color=CCCCCC)](https://www.yilangcharleshe.com/)
-
-
 ## 🍜 Little About Noodles 
-- 👋 Hi, I’m @YilangHe
+- 👋 Hi, I’m Charles
 - 👀 I’m interested in IOS & Web Dev
-- 🌱 I’m currently a SWE @Bloomberg
 - 🎱 Major in Computer Engineering, minor in Economics
 - 📫 Feel free to contact me through email: yilangcharleshe@gmail.com
 - 👉 My portfolio website: https://www.yilangcharleshe.com/
