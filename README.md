@@ -2,8 +2,6 @@
 - 👋 Hi, I’m Charles
 - 👀 I’m interested in IOS & Web Dev
 - 🎱 Major in Computer Engineering, minor in Economics
-- 📫 Feel free to contact me through email: yilangcharleshe@gmail.com
-- 👉 My portfolio website: https://www.yilangcharleshe.com/
   
 ## 💼 Skills
 
